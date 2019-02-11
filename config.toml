@@ -4,7 +4,7 @@ baseURL = "https://fibercache.com"
 theme = "massively"
 googleanalytics = ""
 disqusShortname = ""
-
+author = "iamrexdev@gmail.com"
 # [params]
   # set below parameter to define a favicon
   # favicon = "favicon.ico"
@@ -18,9 +18,9 @@ disqusShortname = ""
 [languages]
 [languages.en]
   languageName = "English"
-[languages.es]
-  languageName = "Español"
-  title = "Massively - Versión Español"
+#[languages.es]
+#  languageName = "Español"
+#  title = "Massively - Versión Español"
 #[languages.fr]
 #  languageName = "Français"
 #  title = "Massively - Version Française"
