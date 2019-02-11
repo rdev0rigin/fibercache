@@ -1,158 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94138282-2a0b-4c7a-8556-349f289e366c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/post/post.1.en.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/post/post.1.es.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/post/post.2.en.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/post/post.2.es.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/post/post.3.en.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/post/post.3.es.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/post/post.4.en.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/post/post.4.es.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/post/post.5.en.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/post/post.5.es.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/post/post.6.en.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/post/post.6.es.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/post/post.7.en.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/post/post.7.es.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/post/post.8.en.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/post/post.8.es.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/post/post.9.en.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/post/post.9.es.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/post/post.en.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/post/post.es.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/en/contactinfo.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/en/intro.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/en/post.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/en/social.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/es/contactinfo.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/es/intro.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/es/post.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/es/social.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/fr/contactinfo.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/fr/intro.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/fr/post.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/fr/social.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netlify.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/massively" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fc-pub.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/are-you-doing-the-right-way.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/simple-image-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/simple-post-title.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/about.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/about2.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/blog.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/contact.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/portfolio.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pricing.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/service.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/skill.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/team.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/testimonial.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/blog/are-you-doing-the-right-way/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/blog/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/blog/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/blog/simple-image-post/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/blog/simple-post-title/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/custom.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/style.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/about/about-business-man.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/about/company-growth.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/backgrounds/bg-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/backgrounds/bg-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/blog/avatar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/blog/blog-post-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/blog/blog-post-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/blog/blog-post-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/blog/user.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/logos/our-client.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/portfolio/portfolio-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/portfolio/portfolio-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/portfolio/portfolio-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/portfolio/portfolio-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/portfolio/portfolio-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/portfolio/portfolio-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/portfolio/portfolio-7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/portfolio/portfolio-8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/slider/hero-area.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/team/author.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/team/client-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/team/client-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/team/team-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/team/team-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/team/team-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/team/team-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/bootstrap.bundle.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/script.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/scroll-behavior-polyfill.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/php/mailer.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/php/phpmailer/Exception.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/php/phpmailer/PHPMailer.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/php/phpmailer/SMTP.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/animate-css/animate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/bootstrap/dist/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/bootstrap/dist/js/bootstrap.bundle.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/bootstrap/dist/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/count-to/jquery.countTo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/jQuery-nav/jquery.nav.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/jquery/dist/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/magnific-popup/dist/jquery.magnific-popup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/magnific-popup/dist/jquery.magnific-popup.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/magnific-popup/dist/magnific-popup.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/magnific-popup/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/masonry/dist/masonry.pkgd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/masonry/dist/masonry.pkgd.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/mixitup/mixitup.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/slick-carousel/slick/ajax-loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/slick-carousel/slick/config.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/slick-carousel/slick/fonts/slick.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/slick-carousel/slick/fonts/slick.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/slick-carousel/slick/fonts/slick.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/slick-carousel/slick/fonts/slick.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/slick-carousel/slick/slick-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/slick-carousel/slick/slick.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/slick-carousel/slick/slick.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/slick-carousel/slick/slick.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/themefisher-font/fonts/themefisher-font.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/themefisher-font/fonts/themefisher-font.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/themefisher-font/fonts/themefisher-font.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/themefisher-font/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/wow/Gruntfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/wow/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/wow/bower.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/wow/css/libs/animate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/wow/css/site.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/wow/demo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/wow/dist/wow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/wow/dist/wow.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/wow/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/wow/spec/coffeescripts/helpers/SpecHelper.coffee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/wow/spec/coffeescripts/wow-spec.coffee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/wow/spec/javascripts/fixtures/custom.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/wow/spec/javascripts/fixtures/simple.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/wow/spec/javascripts/helpers/SpecHelper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/wow/spec/javascripts/libs/jasmine-jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/wow/spec/javascripts/libs/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/wow/spec/javascripts/wow-spec.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/plugins/wow/src/wow.coffee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="94138282-2a0b-4c7a-8556-349f289e366c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,8 +42,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/netlify.toml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62">
-              <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+            <state relative-caret-position="131">
+              <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -203,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/.gitmodules">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="28" />
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -283,11 +132,6 @@
               <item name="fc-pub" type="b2602c69:ProjectViewProjectNode" />
               <item name="fc-pub" type="462c0819:PsiDirectoryNode" />
               <item name="archetypes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fc-pub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fc-pub" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fc-pub" type="b2602c69:ProjectViewProjectNode" />
@@ -437,6 +281,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitmodules">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config.toml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -444,17 +295,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitmodules">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/netlify.toml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+        <state relative-caret-position="131">
+          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
         </state>
       </provider>
     </entry>
